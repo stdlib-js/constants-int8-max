@@ -20,7 +20,7 @@ limitations under the License.
 
 # Max Int8
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Maximum signed 8-bit integer.
 
@@ -82,7 +82,7 @@ console.log( INT8_MAX );
 
 ## See Also
 
--   [`@stdlib/constants/int8/min`][@stdlib/constants/int8/min]: minimum signed 8-bit integer.
+-   <span class="package-name">[`@stdlib/constants/int8/min`][@stdlib/constants/int8/min]</span><span class="delimiter">: </span><span class="description">minimum signed 8-bit integer.</span>
 
 </section>
 
@@ -133,8 +133,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/constants-int8-max/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/constants-int8-max?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/constants-int8-max.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/constants-int8-max/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
